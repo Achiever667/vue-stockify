@@ -26,6 +26,7 @@
 <style>
     body {
         padding: 30px;
+        background: #ffffff;
     }
 
     .slide-enter-active {
